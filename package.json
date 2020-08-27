@@ -1,0 +1,16 @@
+{
+  "name": "cjs-task-fs-steps",
+  "version": "1.0.0",
+  "description": "cjs-task steps to simplify working with the file system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cjs-task",
+    "filesystem",
+    "fs"
+  ],
+  "author": "akamaozu <uzo@designbymobius.ca> (http://designbymobi.us/)",
+  "license": "MIT"
+}
