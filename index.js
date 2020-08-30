@@ -1,5 +1,7 @@
 var fs = require('fs'),
-    steps = fs.readdirSync( './steps' ),
+    path = require('path'),
+    path_to_steps_dir = path.join( __dirname, '/steps' ),
+    steps = fs.readdirSync( path_to_steps_dir ),
     api = {};
 
 steps.forEach( function( path_to_step ){
