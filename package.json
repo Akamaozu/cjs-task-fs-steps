@@ -1,6 +1,6 @@
 {
   "name": "cjs-task-fs-steps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cjs-task steps to simplify working with the file system",
   "main": "index.js",
   "scripts": {
